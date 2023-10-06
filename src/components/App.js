@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import ShoppingList from "./ShoppingList";
+import Header from "./Header";
+import Filter from "./Filter";
 import itemData from "../data/items";
 
 function App() {
